@@ -1,0 +1,17 @@
+{
+  "name": "rice-ips",
+  "version": "1.0.0",
+  "description": "Image Processing Servicce",
+  "main": "index.js",
+  "repository": "https://github.com/longshotdev/rice-image-processing-server.git",
+  "author": "AndyIsCool5463 <andyl5463@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
+    "express": "^4.17.1"
+  }
+}

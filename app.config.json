@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "rice-ips",
+      "script": "npm",
+      "interpreter": "none",
+      "args": "start"
+    }
+  ]
+}
